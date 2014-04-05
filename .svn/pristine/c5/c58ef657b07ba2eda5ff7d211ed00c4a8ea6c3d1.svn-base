@@ -1,0 +1,15 @@
+
+AppGallery.dialect=org.hibernate.dialect.MySQLDialect
+AppGallery.connection.driver_class=com.mysql.jdbc.Driver
+AppGallery.show_sql=false
+AppGallery.generateDdl=false
+AppGallery.minPoolSize=1
+AppGallery.maxPoolSize=10
+
+#local DB
+AppGallery.connection.url=jdbc:mysql://localhost:3306/pizzashop
+AppGallery.connection.username=root
+AppGallery.connection.password=
+
+
+
